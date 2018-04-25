@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../parent.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<wrapper id="top">
+	<wrapper class="patd">PANIC! AT THE DISCO</wrapper>
+	<nav class="dropdown"><span class="dropbtn">Navigation</span>
+		<wrapper class="dropdown-content"><ul>
+         <a href="index.html"><li>Home</li></a>
+          <a href="news.html"><li>News</li></a>
+          <a href="music.html"><li>Music</li></a>
+           <a href="https://www.youtube.com/panicatthedisco"><li>Videos</li></a>
+            <a href="calendar.html"><li>Tours</li></a>
+             <a href="photos.html"><li>Photos</li></a>
+             <a href="mailings.html"><li>Mailing</li></a>
+              <a href="merchandise.html"><li>Merch</li></a>
+               <a href="http://panicatthedisco.tumblr.com/"><li>Blogs</li></a>
+               <a href="http://www.fueledbyramen.com/privacy-policy"><li>Privacy</li></a>
+       </ul></wrapper>
+      </nav>
+	<!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+      <section class="footer">
+	   <a href="index.html"><li>HOME</li></a>
+	   <a href="http://www.fueledbyramen.com/privacy-policy"><li>PRIVACY</li></a>
+	   <a href="#top"><li>TOP</li></a>
+	</section>
+    </wrapper>
+</body>
+</html>
